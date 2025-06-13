@@ -6,7 +6,8 @@ Dataset:- Import the supermarket sales dataset as a CSV file into Power BI.[Stor
 
 Project Description:-
 This project will involve a comprehensive analysis of supermarket sales data, including: 
-Data Cleaning:-
+ 
+ Data Cleaning:-
 •	Remove duplicate records, if any.
 •	Convert Date and Time columns to appropriate date and time formats.
 •	Ensure numeric fields like Quantity, Unit Price, and Gross Income are correctly set as numeric data types.
